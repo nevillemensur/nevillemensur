@@ -2,7 +2,7 @@
 <h2>👨🏾‍💻 Information Technology Projects:</h2>
 
 - <b>Amazon Web Services</b>
-  - [Internet Protocols - Public and Private IP addresses]
+  - [Internet Protocols - Public and Private IP addresses](https://github.com/nevillemensur/public-and-private-IP-addresses)
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/nevillemensur/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/nevillemensur/post-install-config)
