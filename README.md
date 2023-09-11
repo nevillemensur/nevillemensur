@@ -2,7 +2,7 @@
 <h2>👨🏾‍💻 Information Technology Projects:</h2>
 
 - <b>Amazon Web Services</b>
-  - [Internet Protocols - Static and Dynamic Addresses](https://github.com/nevillemensur/Static-And-Dynamic-addresses)
+  - [Internet Protocols - Static and Dynamic Addresses](https://github.com/nevillemensur/static-and-dynamic-addresses)
   - [Internet Protocols - Public and Private IP addresses](https://github.com/nevillemensur/public-and-private-IP-addresses)
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/nevillemensur/osticket-prereqs)
